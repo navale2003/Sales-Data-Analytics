@@ -1,0 +1,4 @@
+churn_status,customer_count,percentage
+Churned,11947,59.73500000000001
+Active,7714,38.57
+Never Purchased,339,1.695

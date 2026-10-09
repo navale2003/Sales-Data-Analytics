@@ -1,0 +1,501 @@
+product_id,product_name,category,orders,quantity_sold,revenue
+56,Clothing Product 56,Clothing,241,621,27499894.18
+50,Beauty Product 50,Beauty,213,560,25139724.579
+335,Beauty Product 335,Beauty,220,561,24848507.629
+175,Books Product 175,Books,210,547,24448193.341
+467,Home & Kitchen Product 467,Home & Kitchen,224,550,24428167.218000002
+318,Beauty Product 318,Beauty,213,537,24182526.799999997
+187,Clothing Product 187,Clothing,212,546,23982852.426
+157,Sports Product 157,Sports,204,527,23496717.7835
+128,Electronics Product 128,Electronics,222,546,23361972.2115
+166,Electronics Product 166,Electronics,227,533,23097346.815
+106,Sports Product 106,Sports,213,546,23019544.296
+200,Beauty Product 200,Beauty,213,521,22867716.603
+144,Home & Kitchen Product 144,Home & Kitchen,212,524,22658187.894
+395,Clothing Product 395,Clothing,198,506,22559140.944000002
+365,Books Product 365,Books,200,500,22406270.0225
+255,Home & Kitchen Product 255,Home & Kitchen,207,523,22168738.708
+142,Books Product 142,Books,208,516,22103898.741
+238,Home & Kitchen Product 238,Home & Kitchen,208,546,22097442.927
+357,Accessories Product 357,Accessories,196,496,22051253.0605
+127,Books Product 127,Books,197,499,21922016.916
+119,Accessories Product 119,Accessories,199,491,21698765.394
+73,Clothing Product 73,Clothing,201,489,21652239.6
+67,Clothing Product 67,Clothing,189,480,21600877.766
+24,Electronics Product 24,Electronics,218,546,21512185.2885
+397,Accessories Product 397,Accessories,199,500,21435837.696000002
+224,Clothing Product 224,Clothing,196,503,21379451.047
+315,Electronics Product 315,Electronics,212,525,21332003.775
+401,Sports Product 401,Sports,193,501,21230970.46
+370,Beauty Product 370,Beauty,228,593,21020855.436
+9,Home & Kitchen Product 9,Home & Kitchen,199,510,20822193.580000002
+282,Electronics Product 282,Electronics,209,530,20803338.667999998
+348,Clothing Product 348,Clothing,203,521,20777991.039
+192,Home & Kitchen Product 192,Home & Kitchen,202,509,20734429.134999998
+322,Beauty Product 322,Beauty,199,508,20648260.217
+376,Clothing Product 376,Clothing,206,537,20592917.802
+225,Home & Kitchen Product 225,Home & Kitchen,216,514,20471889.898
+441,Home & Kitchen Product 441,Home & Kitchen,206,506,20427347.1095
+94,Accessories Product 94,Accessories,188,503,20408885.248
+251,Beauty Product 251,Beauty,220,525,20389093.075
+103,Sports Product 103,Sports,199,504,20284705.425
+469,Clothing Product 469,Clothing,202,511,20237313.577000003
+138,Sports Product 138,Sports,202,499,20213699.642500002
+382,Electronics Product 382,Electronics,187,477,20200840.047000002
+287,Beauty Product 287,Beauty,203,486,20109102.615
+156,Accessories Product 156,Accessories,193,491,20084743.871999998
+172,Beauty Product 172,Beauty,211,524,20033637.79
+493,Electronics Product 493,Electronics,199,503,19853100.144
+236,Beauty Product 236,Beauty,212,525,19837416.9
+53,Clothing Product 53,Clothing,211,541,19746295.888
+278,Beauty Product 278,Beauty,224,556,19663720.722
+442,Accessories Product 442,Accessories,200,478,19662178.7965
+355,Sports Product 355,Sports,199,509,19639881.3235
+319,Clothing Product 319,Clothing,196,492,19632893.749
+490,Sports Product 490,Sports,193,492,19565335.902
+152,Books Product 152,Books,198,512,19558464.315
+473,Accessories Product 473,Accessories,198,489,19431714.588
+228,Clothing Product 228,Clothing,201,494,19383678.291
+159,Accessories Product 159,Accessories,210,509,19367415.333
+339,Books Product 339,Books,190,469,19340540.9925
+455,Home & Kitchen Product 455,Home & Kitchen,192,474,19339619.001000002
+422,Beauty Product 422,Beauty,194,516,19331459.719
+476,Sports Product 476,Sports,188,481,19282700.0625
+177,Beauty Product 177,Beauty,210,541,19205662.665
+262,Clothing Product 262,Clothing,207,505,19048433.1745
+77,Books Product 77,Books,210,515,19041548.445
+82,Accessories Product 82,Accessories,199,483,19019495.531999998
+418,Electronics Product 418,Electronics,198,490,18875736.618
+184,Clothing Product 184,Clothing,191,468,18832840.123999998
+162,Beauty Product 162,Beauty,214,517,18797265.028500002
+104,Beauty Product 104,Beauty,186,484,18748903.04
+427,Sports Product 427,Sports,215,560,18695044.602
+480,Sports Product 480,Sports,211,514,18685989.444
+333,Home & Kitchen Product 333,Home & Kitchen,218,552,18683320.080000002
+21,Books Product 21,Books,193,481,18682342.545
+205,Electronics Product 205,Electronics,212,507,18649166.198
+33,Books Product 33,Books,218,540,18640254.78
+317,Beauty Product 317,Beauty,224,547,18544864.947
+35,Electronics Product 35,Electronics,184,477,18506942.476
+391,Beauty Product 391,Beauty,168,431,18453385.7225
+174,Sports Product 174,Sports,203,518,18424896.684
+313,Books Product 313,Books,210,523,18228884.702
+237,Beauty Product 237,Beauty,209,519,18172517.434499998
+400,Books Product 400,Books,194,474,18135965.441999998
+242,Sports Product 242,Sports,177,435,18102453.349
+114,Sports Product 114,Sports,219,549,17995279.884
+406,Books Product 406,Books,196,475,17992910.7
+311,Books Product 311,Books,185,439,17992312.818
+158,Home & Kitchen Product 158,Home & Kitchen,188,463,17936075.625
+182,Beauty Product 182,Beauty,210,534,17864163.0405
+481,Accessories Product 481,Accessories,179,463,17813226.78
+203,Clothing Product 203,Clothing,199,491,17632605.632
+123,Electronics Product 123,Electronics,205,495,17589176.112000003
+189,Home & Kitchen Product 189,Home & Kitchen,207,494,17563180.173
+28,Home & Kitchen Product 28,Home & Kitchen,179,458,17494257.688
+306,Accessories Product 306,Accessories,200,496,17413276.776
+399,Home & Kitchen Product 399,Home & Kitchen,220,546,17361785.952
+379,Accessories Product 379,Accessories,190,454,17356953.2345
+13,Home & Kitchen Product 13,Home & Kitchen,198,503,17309462.78
+191,Home & Kitchen Product 191,Home & Kitchen,195,489,17290561.968
+350,Beauty Product 350,Beauty,215,558,17273704.05
+151,Books Product 151,Books,190,488,17266636.461
+164,Sports Product 164,Sports,212,525,17261872.974
+98,Accessories Product 98,Accessories,210,484,17232273.8525
+387,Accessories Product 387,Accessories,210,506,17228995.035
+39,Beauty Product 39,Beauty,189,489,17184053.0015
+231,Clothing Product 231,Clothing,224,540,17113838.2745
+416,Books Product 416,Books,190,486,17082171.714
+450,Accessories Product 450,Accessories,204,503,16988783.654
+329,Electronics Product 329,Electronics,190,442,16957129.385
+332,Home & Kitchen Product 332,Home & Kitchen,214,550,16946422.944
+43,Books Product 43,Books,198,520,16934575.47
+266,Books Product 266,Books,187,462,16912887.796
+269,Sports Product 269,Sports,185,461,16892244.6385
+133,Beauty Product 133,Beauty,202,525,16886145.895
+265,Sports Product 265,Sports,194,480,16874787.165500004
+290,Clothing Product 290,Clothing,184,452,16854719.427
+45,Books Product 45,Books,178,451,16839629.533999998
+111,Books Product 111,Books,181,453,16833421.164
+139,Clothing Product 139,Clothing,209,518,16795353.6
+495,Books Product 495,Books,204,486,16711564.048
+286,Clothing Product 286,Clothing,210,530,16710566.334
+259,Sports Product 259,Sports,187,477,16693003.734
+40,Electronics Product 40,Electronics,199,474,16688851.162500001
+444,Beauty Product 444,Beauty,190,476,16599454.2675
+52,Books Product 52,Books,195,501,16594614.962499999
+459,Sports Product 459,Sports,224,533,16415806.681
+477,Home & Kitchen Product 477,Home & Kitchen,224,550,16399775.332
+435,Sports Product 435,Sports,179,459,16392119.1375
+474,Books Product 474,Books,176,442,16275260.0335
+69,Books Product 69,Books,188,469,16200634.593
+273,Beauty Product 273,Beauty,214,534,16164699.252
+239,Home & Kitchen Product 239,Home & Kitchen,176,429,16134385.617
+169,Home & Kitchen Product 169,Home & Kitchen,202,491,16113951.876000002
+100,Beauty Product 100,Beauty,224,574,16107635.401
+81,Books Product 81,Books,215,547,16038443.659999998
+420,Clothing Product 420,Clothing,192,454,15985303.263999999
+425,Home & Kitchen Product 425,Home & Kitchen,213,519,15957977.53
+170,Sports Product 170,Sports,201,495,15902322.898
+312,Beauty Product 312,Beauty,181,418,15865242.578499999
+336,Sports Product 336,Sports,215,540,15849326.219999999
+42,Clothing Product 42,Clothing,211,506,15839916.826499999
+396,Sports Product 396,Sports,196,509,15746188.034999998
+90,Books Product 90,Books,209,547,15744479.543
+433,Home & Kitchen Product 433,Home & Kitchen,204,502,15730912.090000002
+88,Sports Product 88,Sports,213,543,15698401.983
+305,Accessories Product 305,Accessories,194,483,15584287.01
+125,Clothing Product 125,Clothing,197,470,15503570.385
+84,Sports Product 84,Sports,198,529,15474192.069
+113,Clothing Product 113,Clothing,199,492,15404950.737000002
+410,Sports Product 410,Sports,201,466,15338624.9025
+411,Beauty Product 411,Beauty,196,504,15331137.411
+173,Clothing Product 173,Clothing,206,475,15291295.296
+279,Beauty Product 279,Beauty,199,506,15244176.419999998
+167,Beauty Product 167,Beauty,185,485,15157478.685
+247,Electronics Product 247,Electronics,212,522,15134861.1575
+16,Beauty Product 16,Beauty,193,467,15021855.688
+150,Sports Product 150,Sports,173,445,15018609.0355
+347,Accessories Product 347,Accessories,203,505,15013248.089
+232,Beauty Product 232,Beauty,232,563,14961937.116
+117,Sports Product 117,Sports,209,532,14808574.879
+38,Accessories Product 38,Accessories,188,444,14781644.28
+112,Books Product 112,Books,215,560,14768770.908
+374,Clothing Product 374,Clothing,208,517,14727059.293000001
+302,Clothing Product 302,Clothing,204,508,14704807.1625
+198,Accessories Product 198,Accessories,179,466,14690839.824
+208,Clothing Product 208,Clothing,194,515,14681701.7225
+300,Accessories Product 300,Accessories,197,464,14576734.979999999
+321,Clothing Product 321,Clothing,199,491,14518308.015
+92,Clothing Product 92,Clothing,199,494,14480668.5215
+116,Home & Kitchen Product 116,Home & Kitchen,180,468,14448310.0515
+65,Accessories Product 65,Accessories,212,503,14169358.149
+34,Clothing Product 34,Clothing,192,493,14149713.978
+316,Accessories Product 316,Accessories,205,506,14028906.931
+412,Sports Product 412,Sports,198,506,13994905.863499999
+29,Accessories Product 29,Accessories,173,409,13963466.392
+337,Beauty Product 337,Beauty,191,474,13940549.754999999
+414,Accessories Product 414,Accessories,176,456,13882343.572500002
+102,Accessories Product 102,Accessories,234,560,13847971.217500001
+194,Clothing Product 194,Clothing,231,561,13802485.473
+229,Accessories Product 229,Accessories,209,516,13778056.656
+75,Sports Product 75,Sports,194,467,13665787.306499999
+297,Home & Kitchen Product 297,Home & Kitchen,214,519,13630489.213
+299,Electronics Product 299,Electronics,174,454,13619259.0625
+241,Clothing Product 241,Clothing,205,533,13619046.352
+109,Home & Kitchen Product 109,Home & Kitchen,219,548,13527470.472000001
+304,Accessories Product 304,Accessories,176,446,13444461.619499998
+303,Beauty Product 303,Beauty,174,434,13384786.051
+214,Books Product 214,Books,206,495,13289470.623
+183,Clothing Product 183,Clothing,211,523,13260401.093999999
+498,Home & Kitchen Product 498,Home & Kitchen,195,473,13251502.1335
+449,Clothing Product 449,Clothing,172,413,13232560.029
+64,Sports Product 64,Sports,170,413,13232062.13
+260,Home & Kitchen Product 260,Home & Kitchen,198,501,13184452.82
+314,Home & Kitchen Product 314,Home & Kitchen,207,527,13164161.208
+180,Beauty Product 180,Beauty,206,527,13122710.429499999
+334,Accessories Product 334,Accessories,192,473,13107818.300999999
+438,Sports Product 438,Sports,204,498,13038995.651
+267,Books Product 267,Books,173,450,12992029.128
+27,Accessories Product 27,Accessories,210,535,12988184.9505
+363,Electronics Product 363,Electronics,235,601,12987936.7825
+252,Electronics Product 252,Electronics,165,406,12970385.985000001
+289,Accessories Product 289,Accessories,188,474,12926949.3275
+470,Books Product 470,Books,236,570,12834327.3395
+323,Sports Product 323,Sports,196,503,12668208.0055
+99,Accessories Product 99,Accessories,200,491,12597539.79
+440,Sports Product 440,Sports,205,521,12521021.106
+465,Accessories Product 465,Accessories,211,549,12456759.126
+461,Accessories Product 461,Accessories,209,546,12454345.02
+424,Books Product 424,Books,234,588,12452965.0605
+212,Beauty Product 212,Beauty,199,489,12413833.67
+264,Clothing Product 264,Clothing,170,422,12400015.2675
+37,Beauty Product 37,Beauty,203,499,12383130.342
+168,Electronics Product 168,Electronics,232,559,12375247.391999999
+462,Sports Product 462,Sports,222,543,12180352.569
+497,Beauty Product 497,Beauty,182,467,12165795.5535
+368,Home & Kitchen Product 368,Home & Kitchen,181,473,12089228.129999999
+484,Clothing Product 484,Clothing,190,472,12014159.8455
+140,Books Product 140,Books,199,515,11900105.658
+57,Clothing Product 57,Clothing,199,513,11826885.846
+121,Electronics Product 121,Electronics,185,466,11794343.924999999
+369,Home & Kitchen Product 369,Home & Kitchen,169,409,11788343.993999999
+12,Clothing Product 12,Clothing,183,477,11782948.11
+31,Sports Product 31,Sports,202,500,11736604.1045
+494,Books Product 494,Books,218,545,11688398.786
+392,Home & Kitchen Product 392,Home & Kitchen,216,542,11622833.208
+26,Clothing Product 26,Clothing,175,438,11621774.4745
+413,Accessories Product 413,Accessories,220,509,11619333.375
+129,Electronics Product 129,Electronics,195,493,11574261.457500001
+349,Sports Product 349,Sports,177,461,11568579.002999999
+475,Beauty Product 475,Beauty,172,447,11545711.7805
+23,Home & Kitchen Product 23,Home & Kitchen,221,550,11469813.436
+223,Home & Kitchen Product 223,Home & Kitchen,203,538,11437833.748
+431,Clothing Product 431,Clothing,198,486,11427023.1355
+227,Home & Kitchen Product 227,Home & Kitchen,221,588,11414867.69
+249,Accessories Product 249,Accessories,189,466,11380367.9905
+93,Home & Kitchen Product 93,Home & Kitchen,210,522,11288167.66
+79,Clothing Product 79,Clothing,188,468,11288008.799999999
+122,Beauty Product 122,Beauty,191,494,11070779.587
+466,Clothing Product 466,Clothing,219,534,11037401.361
+404,Accessories Product 404,Accessories,199,503,11030912.55
+1,Electronics Product 1,Electronics,195,467,10990311.2065
+216,Electronics Product 216,Electronics,206,497,10980217.592500001
+135,Electronics Product 135,Electronics,182,444,10969015.442
+308,Sports Product 308,Sports,210,522,10949129.884
+352,Books Product 352,Books,208,524,10943853.387999998
+482,Beauty Product 482,Beauty,215,553,10922247.525
+386,Home & Kitchen Product 386,Home & Kitchen,193,483,10912584.612
+359,Beauty Product 359,Beauty,198,487,10911018.3175
+196,Clothing Product 196,Clothing,195,494,10885726.733000001
+364,Sports Product 364,Sports,193,462,10854349.8135
+342,Sports Product 342,Sports,208,509,10847971.4445
+246,Books Product 246,Books,190,473,10777326.885000002
+201,Electronics Product 201,Electronics,188,502,10766921.664
+204,Home & Kitchen Product 204,Home & Kitchen,210,530,10762099.082
+78,Clothing Product 78,Clothing,191,462,10694016.366
+285,Accessories Product 285,Accessories,190,459,10640499.14
+248,Sports Product 248,Sports,214,531,10588099.5025
+270,Clothing Product 270,Clothing,188,475,10576550.9165
+72,Home & Kitchen Product 72,Home & Kitchen,200,505,10469366.32
+460,Beauty Product 460,Beauty,217,539,10438533.249
+14,Electronics Product 14,Electronics,215,536,10406939.594999999
+148,Beauty Product 148,Beauty,192,457,10264434.342
+86,Accessories Product 86,Accessories,196,502,10222581.525
+124,Accessories Product 124,Accessories,195,495,10073523.741
+358,Accessories Product 358,Accessories,188,461,10037361.237499999
+195,Electronics Product 195,Electronics,182,444,10032104.328
+176,Sports Product 176,Sports,212,537,10019723.818
+456,Clothing Product 456,Clothing,167,423,9939235.841
+426,Beauty Product 426,Beauty,210,552,9864331.963
+341,Home & Kitchen Product 341,Home & Kitchen,181,446,9768163.026
+277,Electronics Product 277,Electronics,202,533,9652474.668
+280,Books Product 280,Books,201,514,9594421.337
+479,Home & Kitchen Product 479,Home & Kitchen,206,510,9499275.448
+309,Clothing Product 309,Clothing,203,521,9499240.728
+390,Sports Product 390,Sports,191,449,9471483.865
+80,Electronics Product 80,Electronics,198,468,9470964.546
+437,Sports Product 437,Sports,200,493,9437438.757
+19,Accessories Product 19,Accessories,196,483,9424566.25
+25,Accessories Product 25,Accessories,196,451,9401536.587499999
+293,Books Product 293,Books,200,498,9371069.148
+193,Books Product 193,Books,215,557,9367054.893000001
+344,Clothing Product 344,Clothing,181,481,9330787.65
+217,Beauty Product 217,Beauty,194,451,9323776.473
+446,Beauty Product 446,Beauty,207,522,9278259.116
+383,Clothing Product 383,Clothing,210,521,9117852.861
+221,Home & Kitchen Product 221,Home & Kitchen,227,571,8923969.893
+275,Clothing Product 275,Clothing,181,421,8920462.9575
+132,Books Product 132,Books,194,501,8877483.538
+4,Beauty Product 4,Beauty,205,501,8810468.35
+472,Sports Product 472,Sports,183,454,8804741.8
+409,Accessories Product 409,Accessories,202,515,8756630.376
+389,Clothing Product 389,Clothing,222,558,8718995.601
+496,Clothing Product 496,Clothing,225,572,8680986.4525
+41,Sports Product 41,Sports,182,483,8668144.647
+354,Accessories Product 354,Accessories,185,460,8644589.4715
+145,Sports Product 145,Sports,220,522,8604559.64
+394,Clothing Product 394,Clothing,211,510,8580209.409
+294,Books Product 294,Books,193,489,8565238.0395
+234,Beauty Product 234,Beauty,197,497,8558382.9255
+463,Beauty Product 463,Beauty,205,498,8528385.72
+165,Home & Kitchen Product 165,Home & Kitchen,197,493,8513363.3625
+207,Clothing Product 207,Clothing,195,475,8464792.83
+325,Beauty Product 325,Beauty,192,452,8419999.014
+120,Books Product 120,Books,212,549,8327240.5995000005
+271,Books Product 271,Books,179,434,8319882.7445
+153,Clothing Product 153,Clothing,218,545,8274415.0935
+8,Sports Product 8,Sports,213,537,8236801.548
+97,Home & Kitchen Product 97,Home & Kitchen,176,444,8234569.352999999
+243,Sports Product 243,Sports,199,480,8199265.620000001
+202,Clothing Product 202,Clothing,177,444,8164965.921
+5,Clothing Product 5,Clothing,195,501,8137208.896000001
+18,Books Product 18,Books,208,514,7983788.475000001
+434,Accessories Product 434,Accessories,211,521,7952503.609500001
+360,Sports Product 360,Sports,207,516,7927943.876999999
+48,Beauty Product 48,Beauty,216,505,7869170.776000001
+452,Beauty Product 452,Beauty,218,562,7845047.988
+443,Clothing Product 443,Clothing,192,504,7830231.949000001
+454,Home & Kitchen Product 454,Home & Kitchen,165,431,7764091.335000001
+250,Beauty Product 250,Beauty,221,541,7716850.456
+179,Electronics Product 179,Electronics,194,498,7696367.8875
+384,Clothing Product 384,Clothing,206,497,7677957.330000001
+284,Clothing Product 284,Clothing,164,408,7575431.100000001
+209,Accessories Product 209,Accessories,185,463,7572687.93
+258,Sports Product 258,Sports,191,468,7547726.8440000005
+408,Books Product 408,Books,184,452,7533813.459999999
+432,Home & Kitchen Product 432,Home & Kitchen,205,498,7499440.9399999995
+245,Accessories Product 245,Accessories,172,421,7478335.6375
+51,Beauty Product 51,Beauty,217,553,7474979.819999999
+7,Sports Product 7,Sports,227,558,7469174.6805
+20,Sports Product 20,Sports,180,454,7421510.615999999
+402,Books Product 402,Books,188,488,7345310.676
+340,Clothing Product 340,Clothing,181,466,7273950.2700000005
+439,Beauty Product 439,Beauty,189,473,7273139.612500001
+215,Clothing Product 215,Clothing,221,548,7223879.382499999
+486,Home & Kitchen Product 486,Home & Kitchen,181,447,7216004.038000001
+61,Home & Kitchen Product 61,Home & Kitchen,207,539,7167751.2205
+91,Accessories Product 91,Accessories,182,479,7164393.925000001
+30,Sports Product 30,Sports,199,462,7149043.356
+345,Books Product 345,Books,180,437,7129532.413500001
+377,Clothing Product 377,Clothing,172,426,7100963.75
+115,Clothing Product 115,Clothing,203,512,7067922.561
+126,Books Product 126,Books,172,431,7062089.265
+346,Clothing Product 346,Clothing,209,487,6948864.72
+276,Beauty Product 276,Beauty,218,555,6897931.5200000005
+253,Books Product 253,Books,231,582,6874232.852
+160,Books Product 160,Books,197,518,6840308.5655
+388,Home & Kitchen Product 388,Home & Kitchen,196,484,6799702.4120000005
+500,Sports Product 500,Sports,214,502,6798343.258
+185,Electronics Product 185,Electronics,173,443,6604979.899500001
+367,Accessories Product 367,Accessories,183,443,6577577.2754999995
+385,Home & Kitchen Product 385,Home & Kitchen,230,583,6520573.140000001
+49,Beauty Product 49,Beauty,185,464,6513002.632499999
+211,Beauty Product 211,Beauty,171,441,6501326.004000001
+478,Books Product 478,Books,179,459,6468918.3195
+471,Beauty Product 471,Beauty,208,488,6438168.7275
+268,Books Product 268,Books,190,470,6320187.558
+96,Books Product 96,Books,177,433,6310608.876
+371,Books Product 371,Books,194,489,6301430.176
+453,Accessories Product 453,Accessories,197,485,6277544.33
+361,Electronics Product 361,Electronics,220,557,6231055.6025
+326,Beauty Product 326,Beauty,199,480,6128339.552999999
+240,Books Product 240,Books,190,475,6115335.8255
+2,Home & Kitchen Product 2,Home & Kitchen,206,527,6108170.289
+58,Accessories Product 58,Accessories,224,574,6071675.384999999
+429,Home & Kitchen Product 429,Home & Kitchen,206,516,6059106.305000001
+89,Electronics Product 89,Electronics,195,506,6051221.332
+257,Sports Product 257,Sports,193,503,5997593.81
+398,Accessories Product 398,Accessories,203,509,5947623.352
+417,Sports Product 417,Sports,199,466,5843161.368
+458,Books Product 458,Books,194,474,5838487.157
+295,Electronics Product 295,Electronics,183,484,5835438.87
+436,Beauty Product 436,Beauty,213,529,5790484.920000001
+331,Clothing Product 331,Clothing,184,457,5704795.503500001
+131,Accessories Product 131,Accessories,174,429,5666803.875
+230,Beauty Product 230,Beauty,204,513,5586703.26
+110,Accessories Product 110,Accessories,189,488,5557674.738
+47,Books Product 47,Books,196,505,5485473.0045
+405,Beauty Product 405,Beauty,184,454,5452861.5995
+457,Accessories Product 457,Accessories,199,510,5439438.8895000005
+220,Home & Kitchen Product 220,Home & Kitchen,209,516,5307995.34
+235,Home & Kitchen Product 235,Home & Kitchen,196,486,5303626.282500001
+445,Books Product 445,Books,210,514,5256805.840000001
+95,Accessories Product 95,Accessories,188,444,5248756.85
+197,Home & Kitchen Product 197,Home & Kitchen,226,559,5225744.4165
+296,Electronics Product 296,Electronics,194,504,5215352.8525
+74,Electronics Product 74,Electronics,219,572,5136621.68
+483,Books Product 483,Books,183,467,5121482.53
+54,Clothing Product 54,Clothing,173,438,5116677.734
+375,Home & Kitchen Product 375,Home & Kitchen,195,463,5063311.155
+154,Home & Kitchen Product 154,Home & Kitchen,185,474,5032561.851
+338,Clothing Product 338,Clothing,207,489,4978228.869
+488,Home & Kitchen Product 488,Home & Kitchen,183,469,4968970.5600000005
+301,Sports Product 301,Sports,195,490,4872605.845
+210,Books Product 210,Books,189,482,4863219.6075
+85,Accessories Product 85,Accessories,234,535,4692183.0225
+283,Sports Product 283,Sports,219,593,4638122.7795
+244,Clothing Product 244,Clothing,211,477,4602596.898
+320,Books Product 320,Books,216,534,4597103.182
+101,Books Product 101,Books,194,477,4555745.563999999
+356,Home & Kitchen Product 356,Home & Kitchen,212,538,4519153.914
+136,Beauty Product 136,Beauty,198,539,4483957.731000001
+353,Accessories Product 353,Accessories,212,537,4472596.422
+63,Books Product 63,Books,213,554,4360114.232
+421,Beauty Product 421,Beauty,207,492,4330122.9
+451,Clothing Product 451,Clothing,185,438,4318654.646
+206,Books Product 206,Books,193,472,4292363.228999999
+256,Accessories Product 256,Accessories,210,531,4273705.4799999995
+222,Electronics Product 222,Electronics,206,474,4240195.25
+83,Books Product 83,Books,190,487,4230802.543500001
+428,Accessories Product 428,Accessories,159,393,4225639.131
+219,Electronics Product 219,Electronics,187,468,4169632.5840000003
+11,Home & Kitchen Product 11,Home & Kitchen,184,462,4074578.7249999996
+351,Clothing Product 351,Clothing,204,521,4070864.7175
+155,Books Product 155,Books,187,475,4004135.867
+272,Sports Product 272,Sports,194,497,3951975.3000000003
+330,Clothing Product 330,Clothing,201,495,3946186.098
+407,Accessories Product 407,Accessories,186,451,3895440.1085
+107,Sports Product 107,Sports,204,522,3829255.378
+118,Sports Product 118,Sports,203,509,3717510.225
+199,Accessories Product 199,Accessories,207,513,3690149.397
+188,Accessories Product 188,Accessories,210,520,3566059.607
+15,Accessories Product 15,Accessories,202,505,3535252.329
+141,Books Product 141,Books,188,481,3520018.026
+181,Sports Product 181,Sports,184,479,3463537.351
+161,Home & Kitchen Product 161,Home & Kitchen,197,487,3447562.913
+419,Home & Kitchen Product 419,Home & Kitchen,212,526,3411870.6599999997
+218,Accessories Product 218,Accessories,192,451,3400572.6149999998
+36,Electronics Product 36,Electronics,194,470,3382430.8485
+310,Books Product 310,Books,199,509,3330540.612
+55,Clothing Product 55,Clothing,207,511,3254697.1775
+149,Accessories Product 149,Accessories,191,496,3250872.1580000003
+163,Clothing Product 163,Clothing,208,502,3219376.401
+10,Sports Product 10,Sports,223,590,3174709.335
+6,Sports Product 6,Sports,210,531,3124938.7249999996
+22,Books Product 22,Books,213,531,3082070.255
+32,Sports Product 32,Sports,181,456,3021787.4359999998
+380,Clothing Product 380,Clothing,204,496,2998842.772
+430,Beauty Product 430,Beauty,195,494,2952313.245
+108,Accessories Product 108,Accessories,207,502,2844532.293
+134,Home & Kitchen Product 134,Home & Kitchen,212,531,2823429.7800000003
+274,Accessories Product 274,Accessories,196,500,2804179.84
+66,Sports Product 66,Sports,184,423,2725770.273
+291,Beauty Product 291,Beauty,212,554,2658630.8775
+378,Clothing Product 378,Clothing,199,490,2655078.3819999998
+327,Sports Product 327,Sports,200,495,2644914.8249999997
+261,Books Product 261,Books,243,640,2575036.3200000003
+147,Electronics Product 147,Electronics,208,540,2527059.8615
+464,Home & Kitchen Product 464,Home & Kitchen,226,552,2490538.68
+487,Home & Kitchen Product 487,Home & Kitchen,187,480,2476794.564
+171,Electronics Product 171,Electronics,194,493,2435220.469
+71,Beauty Product 71,Beauty,190,478,2373895.58
+492,Clothing Product 492,Clothing,191,470,2345848.475
+143,Clothing Product 143,Clothing,211,532,2295553.381
+403,Clothing Product 403,Clothing,200,494,2263534.2
+130,Clothing Product 130,Clothing,206,511,2243308.756
+186,Accessories Product 186,Accessories,202,467,2236537.2105
+381,Home & Kitchen Product 381,Home & Kitchen,198,514,2191122.525
+324,Home & Kitchen Product 324,Home & Kitchen,205,536,2129875.174
+468,Home & Kitchen Product 468,Home & Kitchen,210,528,2110326.4499999997
+288,Books Product 288,Books,201,493,1975236.409
+68,Sports Product 68,Sports,190,453,1848899.045
+46,Home & Kitchen Product 46,Home & Kitchen,216,506,1843195.101
+491,Clothing Product 491,Clothing,194,475,1817799.4989999998
+76,Electronics Product 76,Electronics,180,431,1766744.372
+226,Clothing Product 226,Clothing,191,449,1744455.375
+328,Beauty Product 328,Beauty,192,486,1728920.0760000001
+292,Accessories Product 292,Accessories,221,551,1711230.63
+3,Books Product 3,Books,189,452,1702540.84
+60,Books Product 60,Books,198,503,1693084.544
+70,Accessories Product 70,Accessories,185,481,1632359.3385
+362,Electronics Product 362,Electronics,196,498,1575459.4050000003
+281,Clothing Product 281,Clothing,224,571,1496710.2765000002
+343,Clothing Product 343,Clothing,190,479,1423522.4819999998
+254,Home & Kitchen Product 254,Home & Kitchen,194,470,1353404.8839999998
+213,Beauty Product 213,Beauty,192,490,1321071.264
+298,Electronics Product 298,Electronics,200,480,1314226.08
+233,Electronics Product 233,Electronics,195,471,1044150.5585
+372,Home & Kitchen Product 372,Home & Kitchen,187,478,1027146.512
+447,Books Product 447,Books,187,465,1022737.0724999999
+485,Books Product 485,Books,198,462,997833.5520000001
+87,Accessories Product 87,Accessories,215,544,946079.4005
+59,Books Product 59,Books,185,447,942812.1
+178,Sports Product 178,Sports,205,524,884612.172
+263,Clothing Product 263,Clothing,202,476,773159.69
+307,Beauty Product 307,Beauty,183,442,640217.688
+448,Accessories Product 448,Accessories,214,526,557685.064
+373,Accessories Product 373,Accessories,226,587,478979.033
+415,Electronics Product 415,Electronics,200,510,453527.7425
+105,Beauty Product 105,Beauty,165,403,430146.40499999997
+366,Home & Kitchen Product 366,Home & Kitchen,212,537,382079.31299999997
+17,Clothing Product 17,Clothing,198,473,342048.35
+62,Accessories Product 62,Accessories,208,521,250626.7335
+499,Accessories Product 499,Accessories,226,566,248706.999
+423,Beauty Product 423,Beauty,195,509,245290.89750000002
+190,Clothing Product 190,Clothing,235,610,192884.447
+393,Accessories Product 393,Accessories,229,580,167144.22149999999
+146,Beauty Product 146,Beauty,194,481,139226.34
+489,Books Product 489,Books,210,573,131558.049
+137,Books Product 137,Books,189,459,111727.252
+44,Home & Kitchen Product 44,Home & Kitchen,231,569,102773.682
